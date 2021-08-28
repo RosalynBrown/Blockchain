@@ -4,7 +4,7 @@
 1. First I navigated to the Blockchain folder where my Ethereum Tools are saved then created my first node named “one” using the code below. I noted the public address to use later.
 
 <img width="294" alt="Picture1" src="https://user-images.githubusercontent.com/82069175/131203632-cea7eb27-dd96-4127-a58f-99611f757894.png">
-(https://raw.githubusercontent.com/RosalynBrown/Blockchain/d01ffea798cfc6f26ed009167fe127f310be26e1/pics/Picture1.png)
+![alt text) (https://raw.githubusercontent.com/RosalynBrown/Blockchain/d01ffea798cfc6f26ed009167fe127f310be26e1/pics/Picture1.png)
 
 
 
