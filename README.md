@@ -12,7 +12,14 @@ Path of the secret key file: one/keystore/UTC--2021-08-27T23-21-05.519760000Z--2
 
 2. 2.	Next I set up my next node using the code below with the name “two” and making note of the public key to use later. 
 
-![image](https://user-images.githubusercontent.com/82069175/131227682-1521b7c3-1252-41db-8a49-16d88e3d0e78.png)
+` ./geth --datadir two account new`
+
+Public address of the key:   0x5e4ED64B80314020c971B1D168D81c3bC30824Ef
+Path of the secret key file: two/keystore/UTC--2021-08-27T23-22-01.678087000Z--5e4ed64b80314020c971b1d168d81c3bc30824ef
+
+<img width="292" alt="Picture2" src="https://user-images.githubusercontent.com/82069175/131227710-92cf81e2-b82a-4bcf-9d63-e31741ea8a88.png">
+
+
 
 
 
