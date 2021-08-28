@@ -10,7 +10,10 @@ Path of the secret key file: one/keystore/UTC--2021-08-27T23-21-05.519760000Z--2
 
 <img width="294" alt="Picture1" src="https://user-images.githubusercontent.com/82069175/131203632-cea7eb27-dd96-4127-a58f-99611f757894.png">
 
-2. 
+2. 2.	Next I set up my next node using the code below with the name “two” and making note of the public key to use later. 
+
+![image](https://user-images.githubusercontent.com/82069175/131227682-1521b7c3-1252-41db-8a49-16d88e3d0e78.png)
+
 
 
 
