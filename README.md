@@ -58,6 +58,13 @@ Path of the secret key file: two/keystore/UTC--2021-08-27T23-22-01.678087000Z--5
 
 ![Picture8](https://user-images.githubusercontent.com/82069175/131228811-cd13047f-3bc4-4c1c-9bdc-f0610b6e2bef.png)
 
+11.	Now I sent 444444 to node 2 by inserting the public address and amount in the address and amount fields. 
+
+![Picture9](https://user-images.githubusercontent.com/82069175/131228831-e080e2aa-ff0c-4f6d-83e9-6e1053fc669a.png)
+
+
+
+
 
 
 
