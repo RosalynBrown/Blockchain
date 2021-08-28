@@ -60,7 +60,14 @@ Path of the secret key file: two/keystore/UTC--2021-08-27T23-22-01.678087000Z--5
 
 11.	Now I sent 444444 to node 2 by inserting the public address and amount in the address and amount fields. 
 
-![Picture9](https://user-images.githubusercontent.com/82069175/131228831-e080e2aa-ff0c-4f6d-83e9-6e1053fc669a.png)
+![Picture9](https://user-images.githubusercontent.com/82069175/131228848-24b3d489-c0b6-452f-b709-20b4e7c185ac.png)
+
+12. After selecting send transaction the confirmation screen appears to send and shows the transaction fee along with the amount sent. 
+
+![Picture10](https://user-images.githubusercontent.com/82069175/131228923-b6b62669-d58e-432c-89fa-94331068bcf1.png)
+
+![Picture11](https://user-images.githubusercontent.com/82069175/131228925-60891f39-813f-4170-8354-f847a47b3d0a.png)
+
 
 
 
